@@ -1,22 +1,30 @@
  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #f4f9f9;
-      margin: 0;
-      padding: 0;
-      color: #333;
-    }
+ body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f4f9f9;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
 
-    header {
-      background-color: #005f73;
-      color: white;
-      padding: 20px;
-      text-align: center;
-    <img src="images/Vitapath.png" alt="Vitapath Logo" style="height: 50px; vertical-align: middle;">
-  <h1 style="display: inline-block; margin-left: 10px;">Vitapath</h1>
+header {
+  background-color: #005f73;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
 
-    }
+.logo {
+  height: 50px;
+  vertical-align: middle;
+}
 
+.site-title {
+  display: inline-block;
+  margin-left: 10px;
+  vertical-align: middle;
+  font-size: 24px;
+}
     nav {
       background-color: #0a9396;
       text-align: center;
