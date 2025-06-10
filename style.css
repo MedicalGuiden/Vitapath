@@ -1,5 +1,5 @@
- <style>
- body {
+
+body {
   font-family: 'Segoe UI', sans-serif;
   background-color: #f4f9f9;
   margin: 0;
@@ -14,48 +14,47 @@ header {
   text-align: center;
 }
 
-.logo {
+header img {
   height: 50px;
   vertical-align: middle;
 }
 
-.site-title {
+header h1 {
   display: inline-block;
   margin-left: 10px;
-  vertical-align: middle;
-  font-size: 24px;
 }
-    nav {
-      background-color: #0a9396;
-      text-align: center;
-      padding: 10px 0;
-    }
 
-    nav a {
-      color: white;
-      margin: 0 15px;
-      text-decoration: none;
-      font-weight: bold;
-    }
+nav {
+  background-color: #0a9396;
+  text-align: center;
+  padding: 10px 0;
+}
 
-    .container {
-      max-width: 800px;
-      margin: 30px auto;
-      padding: 0 20px;
-    }
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
 
-    h2 {
-      color: #005f73;
-    }
+.container {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 0 20px;
+}
 
-    ul {
-      padding-left: 20px;
-    }
+h2 {
+  color: #005f73;
+}
 
-    footer {
-      background-color: #001219;
-      color: white;
-      text-align: center;padding: 15px;
-      margin-top: 40px;
-    }
-  </style>
+ul {
+  padding-left: 20px;
+}
+
+footer {
+  background-color: #001219;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 40px;
+}
